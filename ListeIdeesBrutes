@@ -8,7 +8,7 @@
 ##Liste
 
 | ID | Idées brutes |
-|----|------------------------------|
+|----|---------------|
 | 01 | Gérer des films |
 | 02 | Trier les films |
 | 03 | Rechercher un film |
@@ -19,3 +19,4 @@
 | 08 | Application mobile Android |
 | 09 | Suggestion de film |
 | 10 | Gestion profil utilisateur |
+| 11 | Identifier les films présents sur le support |
